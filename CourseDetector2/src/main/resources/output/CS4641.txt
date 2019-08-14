@@ -1,0 +1,6 @@
+**********CS4641; 3credit hour(s)**********
+-->Section 00 GPA: unknown
+Status: SR; CRN: 91077; Section: B; Hour: 3; Registered: 93/200; Wait_listed:0/20; Instructor: Hrolenok, B.
+          15:00 - 16:15 MONDAY Coll of Computing 16
+          15:00 - 16:15 WEDNESDAY Coll of Computing 16
+

@@ -1,0 +1,6 @@
+**********CS3510; 3credit hour(s)**********
+-->Section 00 GPA: unknown
+Status: SR; CRN: 89330; Section: B; Hour: 3; Registered: 123/200; Wait_listed:0/100; Instructor: Brito, G.
+          12:00 - 13:15 TUESDAY Howey (Physics) L4
+          12:00 - 13:15 THURSDAY Howey (Physics) L4
+

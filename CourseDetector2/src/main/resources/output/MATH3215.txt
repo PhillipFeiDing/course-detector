@@ -1,0 +1,22 @@
+**********MATH3215; 3credit hour(s)**********
+-->Section 00 GPA: 2.26
+Status: SR; CRN: 80617; Section: F; Hour: 3; Registered: 4/35; Wait_listed:0/20; Instructor: Bunimovich, L.
+          12:00 - 13:15 TUESDAY Skiles 202
+          12:00 - 13:15 THURSDAY Skiles 202
+
+-->Section 01 GPA: unknown
+Status: SR; CRN: 89663; Section: K; Hour: 3; Registered: 17/35; Wait_listed:0/20; Instructor: Damron, M.
+          13:30 - 14:45 TUESDAY Skiles 249
+          13:30 - 14:45 THURSDAY Skiles 249
+
+-->Section 02 GPA: unknown
+Status: SR; CRN: 89959; Section: T; Hour: 3; Registered: 19/35; Wait_listed:0/20; Instructor: Livshyts, G.
+          16:30 - 17:45 MONDAY Skiles 202
+          16:30 - 17:45 WEDNESDAY Skiles 202
+
+-->Section 03 GPA: unknown
+Status: SR; CRN: 80619; Section: G; Hour: 3; Registered: 16/35; Wait_listed:0/20; Instructor: TBA
+          11:15 - 12:05 MONDAY Skiles 202
+          11:15 - 12:05 WEDNESDAY Skiles 202
+          11:15 - 12:05 FRIDAY Skiles 202
+

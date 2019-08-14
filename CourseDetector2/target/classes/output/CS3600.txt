@@ -1,0 +1,11 @@
+**********CS3600; 3credit hour(s)**********
+-->Section 00 GPA: 3.23
+Status: SR; CRN: 82030; Section: A; Hour: 3; Registered: 180/200; Wait_listed:0/100; Instructor: Riedl, M.
+          15:00 - 16:15 MONDAY College of Business 100
+          15:00 - 16:15 WEDNESDAY College of Business 100
+
+-->Section 01 GPA: unknown
+Status: SR; CRN: 91071; Section: B; Hour: 3; Registered: 91/100; Wait_listed:0/20; Instructor: Hrolenok, B.
+          16:30 - 17:45 TUESDAY Klaus 2443
+          16:30 - 17:45 THURSDAY Klaus 2443
+

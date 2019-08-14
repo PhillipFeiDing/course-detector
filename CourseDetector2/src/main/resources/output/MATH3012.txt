@@ -1,0 +1,7 @@
+**********MATH3012; 3credit hour(s)**********
+-->Section 00 GPA: unknown
+Status: SR; CRN: 80880; Section: C; Hour: 3; Registered: 51/52; Wait_listed:30/30; Instructor: Warnke, L.
+          09:05 - 09:55 MONDAY Coll of Computing 17
+          09:05 - 09:55 WEDNESDAY Coll of Computing 17
+          09:05 - 09:55 FRIDAY Coll of Computing 17
+

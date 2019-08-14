@@ -1,0 +1,85 @@
+**********CS2110; 4credit hour(s)**********
+-->Section 00 GPA: 3.32
+Status: SR; CRN: 81754; Section: B3; Hour: 4; Registered: 14/25; Wait_listed:0/20; Instructor: Southern, C.
+          18:00 - 19:15 MONDAY Klaus 2443
+          15:00 - 16:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 2443
+          15:00 - 16:15 THURSDAY Coll of Computing 16
+
+-->Section 01 GPA: 3.32
+Status: SR; CRN: 85281; Section: B4; Hour: 4; Registered: 13/25; Wait_listed:0/20; Instructor: Southern, C.
+          18:00 - 19:15 MONDAY Klaus 2443
+          15:00 - 16:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 2443
+          15:00 - 16:15 THURSDAY Coll of Computing 16
+
+-->Section 02 GPA: 3.32
+Status: SR; CRN: 87331; Section: B7; Hour: 4; Registered: 12/25; Wait_listed:0/20; Instructor: Southern, C.
+          18:00 - 19:15 MONDAY Klaus 2456
+          15:00 - 16:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 2456
+          15:00 - 16:15 THURSDAY Coll of Computing 16
+
+-->Section 03 GPA: 3.32
+Status: SR; CRN: 88150; Section: B8; Hour: 4; Registered: 7/25; Wait_listed:0/20; Instructor: Southern, C.
+          18:00 - 19:15 MONDAY Klaus 2456
+          15:00 - 16:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 2456
+          15:00 - 16:15 THURSDAY Coll of Computing 16
+
+-->Section 04 GPA: 3.03
+Status: SR; CRN: 83870; Section: A1; Hour: 4; Registered: 24/25; Wait_listed:1/20; Instructor: Conte, T.
+          15:00 - 16:15 MONDAY Klaus 2456
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          15:00 - 16:15 WEDNESDAY Klaus 2456
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+
+-->Section 05 GPA: 3.03
+Status: SR; CRN: 83871; Section: A2; Hour: 4; Registered: 14/25; Wait_listed:1/20; Instructor: Conte, T.
+          15:00 - 16:15 MONDAY Klaus 2456
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          15:00 - 16:15 WEDNESDAY Klaus 2456
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+
+-->Section 06 GPA: 3.03
+Status: SR; CRN: 86393; Section: A5; Hour: 4; Registered: 16/25; Wait_listed:0/20; Instructor: Conte, T.
+          16:30 - 17:45 MONDAY Klaus 2447
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          16:30 - 17:45 WEDNESDAY Klaus 2447
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+
+-->Section 07 GPA: 3.03
+Status: SR; CRN: 86566; Section: A6; Hour: 4; Registered: 7/25; Wait_listed:0/20; Instructor: Conte, T.
+          16:30 - 17:45 MONDAY Klaus 2447
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          16:30 - 17:45 WEDNESDAY Klaus 2447
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+
+-->Section 08 GPA: 3.03
+Status: SR; CRN: 81755; Section: A3; Hour: 4; Registered: 9/25; Wait_listed:0/20; Instructor: Conte, T.
+          18:00 - 19:15 MONDAY Klaus 2447
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 2447
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+
+-->Section 09 GPA: 3.03
+Status: SR; CRN: 85215; Section: A4; Hour: 4; Registered: 3/25; Wait_listed:0/20; Instructor: Conte, T.
+          18:00 - 19:15 MONDAY Klaus 2447
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 2447
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+
+-->Section 10 GPA: 3.03
+Status: SR; CRN: 87330; Section: A7; Hour: 4; Registered: 3/25; Wait_listed:0/20; Instructor: Conte, T.
+          18:00 - 19:15 MONDAY Klaus 1456
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 1456
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+
+-->Section 11 GPA: 3.03
+Status: SR; CRN: 88148; Section: A8; Hour: 4; Registered: 0/25; Wait_listed:0/20; Instructor: Conte, T.
+          18:00 - 19:15 MONDAY Klaus 1456
+          12:00 - 13:15 TUESDAY Coll of Computing 16
+          18:00 - 19:15 WEDNESDAY Klaus 1456
+          12:00 - 13:15 THURSDAY Coll of Computing 16
+

@@ -1,0 +1,6 @@
+**********CS4400; 3credit hour(s)**********
+-->Section 00 GPA: 3.80
+Status: SR; CRN: 80260; Section: A; Hour: 3; Registered: 61/250; Wait_listed:0/100; Instructor: Moss, M.
+          15:00 - 16:15 TUESDAY Clough Commons 144
+          15:00 - 16:15 THURSDAY Clough Commons 144
+

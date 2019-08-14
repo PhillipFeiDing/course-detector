@@ -1,0 +1,40 @@
+**********ISYE3770; 3credit hour(s)**********
+-->Section 00 GPA: 3.16
+Status: SR; CRN: 87711; Section: M01; Hour: 3; Registered: 64/80; Wait_listed:0/60; Instructor: Lee, I.
+          09:05 - 09:55 MONDAY Instr Center 111
+          09:05 - 09:55 WEDNESDAY Instr Center 111
+          09:05 - 09:55 FRIDAY Instr Center 111
+
+-->Section 01 GPA: 3.12
+Status: SR; CRN: 89604; Section: R; Hour: 3; Registered: 4/30; Wait_listed:0/15; Instructor: Rontani, D.
+          15:30 - 16:55 MONDAY TBA
+          15:30 - 16:55 WEDNESDAY TBA
+
+-->Section 02 GPA: 2.88
+Status: SR; CRN: 90299; Section: M05; Hour: 3; Registered: 33/80; Wait_listed:0/40; Instructor: Sharp, G.
+          13:55 - 14:45 MONDAY Instr Center 205
+          13:55 - 14:45 WEDNESDAY Instr Center 205
+          13:55 - 14:45 FRIDAY Instr Center 205
+
+-->Section 03 GPA: 2.75
+Status: SR; CRN: 80499; Section: E; Hour: 3; Registered: 22/80; Wait_listed:0/60; Instructor: Johnson, R.
+          08:00 - 09:15 TUESDAY Instr Center 205
+          08:00 - 09:15 THURSDAY Instr Center 205
+
+-->Section 04 GPA: 2.75
+Status: SR; CRN: 86735; Section: F; Hour: 3; Registered: 63/80; Wait_listed:0/60; Instructor: Johnson, R.
+          09:30 - 10:45 TUESDAY Instr Center 205
+          09:30 - 10:45 THURSDAY Instr Center 205
+
+-->Section 05 GPA: unknown
+Status: SR; CRN: 86184; Section: M02; Hour: 3; Registered: 28/80; Wait_listed:0/75; Instructor: TBA
+          10:10 - 11:00 MONDAY Instr Center 111
+          10:10 - 11:00 WEDNESDAY Instr Center 111
+          10:10 - 11:00 FRIDAY Instr Center 111
+
+-->Section 06 GPA: unknown
+Status: SR; CRN: 86710; Section: M04; Hour: 3; Registered: 27/80; Wait_listed:0/75; Instructor: TBA
+          12:20 - 13:10 MONDAY Instr Center 111
+          12:20 - 13:10 WEDNESDAY Instr Center 111
+          12:20 - 13:10 FRIDAY Instr Center 111
+

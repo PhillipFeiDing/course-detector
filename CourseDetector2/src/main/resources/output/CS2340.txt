@@ -1,0 +1,13 @@
+**********CS2340; 3credit hour(s)**********
+-->Section 00 GPA: 3.55
+Status: SR; CRN: 81297; Section: B; Hour: 3; Registered: 46/250; Wait_listed:0/50; Instructor: Simpkins, C.
+          10:10 - 11:00 MONDAY Clough Commons 144
+          10:10 - 11:00 WEDNESDAY Clough Commons 144
+          10:10 - 11:00 FRIDAY Clough Commons 144
+
+-->Section 01 GPA: 3.55
+Status: SR; CRN: 87560; Section: A; Hour: 3; Registered: 71/200; Wait_listed:0/50; Instructor: Simpkins, C.
+          12:20 - 13:10 MONDAY Coll of Computing 16
+          12:20 - 13:10 WEDNESDAY Coll of Computing 16
+          12:20 - 13:10 FRIDAY Coll of Computing 16
+

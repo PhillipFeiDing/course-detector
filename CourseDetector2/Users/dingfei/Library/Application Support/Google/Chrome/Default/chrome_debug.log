@@ -1,0 +1,3 @@
+[51505:775:0315/220821.689917:ERROR:native_widget_mac.mm(471)] Not implemented reached in virtual void views::NativeWidgetMac::Maximize()
+[51505:775:0315/220913.607677:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[51505:775:0315/220913.607758:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
